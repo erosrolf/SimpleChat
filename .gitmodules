@@ -1,0 +1,9 @@
+[submodule "ext-libs/websocketpp"]
+	path = ext-libs/websocketpp
+	url = https://github.com/zaphoyd/websocketpp
+[submodule "ext-libs/asio"]
+	path = ext-libs/asio
+	url = https://github.com/chriskohlhoff/asio
+[submodule "ext-libs/absl"]
+	path = ext-libs/absl
+	url = https://github.com/abseil/abseil-cpp
